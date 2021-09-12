@@ -1,0 +1,1 @@
+# QGIS-Trencin-School-Project
